@@ -10,4 +10,4 @@
 ### 🛠️ Tech Stack  
 - **Frontend (Angular/Ionic)**: 45%
 - **Backend (.NET/API)**: 40%
-- **Database/SQL**: 15&
+- **Database/SQL**: 15%
