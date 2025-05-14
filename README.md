@@ -1,7 +1,13 @@
-Hey there! 👋
+# Hi, I'm Katlego Makhafula! 👋  
 
-I'm a BIT Information Systems graduate from the University of Pretoria, with solid foundations in software development and system analysis. As an aspiring software developer, I'm all about building impactful solutions and leveling up my skills!
+**Information Systems Graduate** | **Software Developer** | **Problem Solver**  
 
-🔹 Hands-on Experience: Web & mobile app development <br>
-🔹 Passionate About: Tackling real-world problems with tech <br>
-🔹 Project Showcase: Sharing past & ongoing projects here to track my journey
+### 💻 What I Bring to the Table  
+- **Full-Stack Chops**: Angular, .NET, SQL, and Ionic mobile development  
+- **Data Mindset**: Build systems that turn raw data into actionable insights  
+- **Clean Code Advocate**: Readable, maintainable, and scalable solutions  
+
+### 🛠️ Tech Stack  
+- **Frontend (Angular/Ionic)**: 45%
+- **Backend (.NET/API)**: 40%
+- **Database/SQL**: 15&
